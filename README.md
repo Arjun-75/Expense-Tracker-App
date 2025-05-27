@@ -2,6 +2,8 @@
 
 A simple mobile app to track daily expenses, built with React Native. Manage your finances by recording expenses with categories, dates, and amounts.
 
+![Screenshot_20250527_144828_Expo Go](https://github.com/user-attachments/assets/378a0ad7-af5b-4b36-9592-a6fb01e376cb)
+![Screenshot_20250527_144835_Expo Go](https://github.com/user-attachments/assets/1e420aa1-e2de-43aa-bd1f-34b823a490ee)
 
 
 ## Features ✨
@@ -25,16 +27,16 @@ A simple mobile app to track daily expenses, built with React Native. Manage you
    ```bash
    git clone https://github.com/Arjun-75/Expense-Tracker-App.git
    cd Expense-Tracker-App
-Install dependencies:
+   npx expo start
 
-bash
+Install dependencies:
 npm install
 # or
 yarn install
-Start the development server:
 
-bash
-expo start
+Start the development server:
+npx expo start
+
 Run on Android/iOS:
 
 Press a for Android emulator

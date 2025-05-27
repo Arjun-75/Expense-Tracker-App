@@ -30,9 +30,8 @@ A simple mobile app to track daily expenses, built with React Native. Manage you
    npx expo start
 
 Install dependencies:
+
 npm install
-# or
-yarn install
 
 Start the development server:
 npx expo start

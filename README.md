@@ -56,21 +56,21 @@ A simple mobile app to track daily expenses, built with React Native. Manage you
 ### Edit/Delete: Long-press any expense to modify or remove it
 
 # Technical Details 🔧
-## Framework: React Native + Expo
+Framework: React Native + Expo
 
-## Navigation: React Navigation Native Stack
+Navigation: React Navigation Native Stack
 
-## Storage: AsyncStorage for persistent data
+Storage: AsyncStorage for persistent data
 
-## Date Picker: @react-native-community/datetimepicker
+Date Picker: @react-native-community/datetimepicker
 
-## UI: Platform-specific components (Android/iOS)
+UI: Platform-specific components (Android/iOS)
 
 # Contributing 🤝
-## Feel free to:
+Feel free to:
 
-### Report issues 🐛
+Report issues 🐛
 
-### Suggest features 💡
+Suggest features 💡
 
-###Submit pull requests 🌟
+Submit pull requests 🌟

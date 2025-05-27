@@ -32,46 +32,45 @@ A simple mobile app to track daily expenses, built with React Native. Manage you
 2. Install dependencies:
    npm install
 
+
 3.Start the development server:
    npx expo start
 
+
 4.Run on Android/iOS:
 
-   Press a for Android emulator
+      Press a for Android emulator
 
-   Press i for iOS simulator
+      Press i for iOS simulator
 
 5.Scan QR code with Expo Go app (physical devices)
 
-#### Usage 📱
- # View Expenses: See all expenses in reverse chronological order
+# Usage 📱
+ ### View Expenses: See all expenses in reverse chronological order
 
- # Add Expense:
+ ### Add Expense:
+      Tap "Add Expense"
+      Enter amount, category, and select date
+      Save to store locally
 
-Tap "Add Expense"
+### Edit/Delete: Long-press any expense to modify or remove it
 
-Enter amount, category, and select date
+# Technical Details 🔧
+## Framework: React Native + Expo
 
-Save to store locally
+## Navigation: React Navigation Native Stack
 
-Edit/Delete: Long-press any expense to modify or remove it
+## Storage: AsyncStorage for persistent data
 
-Technical Details 🔧
-Framework: React Native + Expo
+## Date Picker: @react-native-community/datetimepicker
 
-Navigation: React Navigation Native Stack
+## UI: Platform-specific components (Android/iOS)
 
-Storage: AsyncStorage for persistent data
+# Contributing 🤝
+## Feel free to:
 
-Date Picker: @react-native-community/datetimepicker
+### Report issues 🐛
 
-UI: Platform-specific components (Android/iOS)
+### Suggest features 💡
 
-Contributing 🤝
-Feel free to:
-
-Report issues 🐛
-
-Suggest features 💡
-
-Submit pull requests 🌟
+###Submit pull requests 🌟

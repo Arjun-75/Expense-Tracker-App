@@ -29,25 +29,24 @@ A simple mobile app to track daily expenses, built with React Native. Manage you
    cd Expense-Tracker-App
    npx expo start
 
-Install dependencies:
+2. Install dependencies:
+   npm install
 
-npm install
+3.Start the development server:
+   npx expo start
 
-Start the development server:
-npx expo start
+4.Run on Android/iOS:
 
-Run on Android/iOS:
+   Press a for Android emulator
 
-Press a for Android emulator
+   Press i for iOS simulator
 
-Press i for iOS simulator
+5.Scan QR code with Expo Go app (physical devices)
 
-Scan QR code with Expo Go app (physical devices)
+#### Usage 📱
+ # View Expenses: See all expenses in reverse chronological order
 
-Usage 📱
-View Expenses: See all expenses in reverse chronological order
-
-Add Expense:
+ # Add Expense:
 
 Tap "Add Expense"
 
